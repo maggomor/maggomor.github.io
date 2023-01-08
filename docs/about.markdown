@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my page. I am an economist and aspiring data scientist currently located in Bayreuth, Germany.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At the heart of human understanding has always been story-telling. Be it myths shared at a campfire millenials ago, the era of modern-day television and cinema, or a dataset containing observations and categories. At the end of the day, we want data to tell us a story so that we in turn can understand the data again. And in turn, everything around us can become data if only we learn to encode - and decode - it correctly.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I stand with one foot each in the philosophy and in the empirical implementation of causal analysis. With one foot each in the mathematical theory underlying a process and the code to implement the analysis. With one foot in understanding and one foot in prediction. Only two sides make a coin.
 
+On this website, I intend to share both professional and personal activities. Life, to me, consists of learning and creating. I love learning languages, I love learning instruments, I love learning new statistical techniques and methodologies. Hence, you will find categories that fit one - or more - of these categories.
 
-[jekyll-organization]: https://github.com/jekyll
+I am currently on the market.
