@@ -1,5 +1,8 @@
-layout: page
-title: "Hello"
-permalink: /hello/
+---
+layout: post
+title:  "Hello!"
+date:   2023-01-08 21:17:00 +0100
+categories: A new website!
+---
 
 Hello People, this is my new website! Soon there will be exciting changes to come!
