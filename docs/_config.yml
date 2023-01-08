@@ -35,7 +35,7 @@ kaggle_username: maggomor
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
