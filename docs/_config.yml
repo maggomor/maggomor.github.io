@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Website of Marco Molitor
-email: your-email@example.com
+email: inbuildup@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Analytical| Perceptive| Unconventional| Precise 
      Quick to learn| Enthusiastic| Methodological 
@@ -29,8 +29,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: ZetaOf1
+github_username:  maggomor
+kaggle_username: maggomor
 
 # Build settings
 theme: minima
