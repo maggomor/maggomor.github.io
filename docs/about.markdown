@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: 
 ---
 <img src="assets/images/MH9_4265.jpg" width="25%" height="25%"/>
 
