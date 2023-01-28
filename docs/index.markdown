@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![welcome_picture](assets/images/zusatzfoto4.jpg)
