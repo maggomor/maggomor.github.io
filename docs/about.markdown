@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 <img src="assets/MH9_4265.jpg" width="25%" height="25%">
-# ![my_picture](assets/MH9_4265.jpg)
 
 Welcome to my page. I am an economist and aspiring data scientist currently located in Bayreuth, Germany.
 
