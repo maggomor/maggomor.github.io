@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/maggomor/maggomor.github.io/blob/gh-pages/docs/assets/MH9_4265.jpg" width=50% height=50%>
+<img src="https://github.com/maggomor/maggomor.github.io/blob/gh-pages/docs/assets/MH9_4265.jpg" width=30% height=30%>
+<img src="https://github.com/maggomor/maggomor.github.io/blob/gh-pages/docs/assets/MH9_4086.jpg" width=30% height=30%>
 
 
 
