@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![me](assets/MH9_4265.jpg width=25% height=25%)
+<img src="https://gitthub.com/maggomor/maggomor.github.io/docs/assets/MH9_4265.jpg" width=50% height=50%>
+
 
 
 Welcome to my page. I am an economist and aspiring data scientist currently located in Bayreuth, Germany.
