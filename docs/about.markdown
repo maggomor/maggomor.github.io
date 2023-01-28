@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![me](/least-github-pages/assets/MH_4265.jpg)
+
+
 Welcome to my page. I am an economist and aspiring data scientist currently located in Bayreuth, Germany.
 
 At the heart of human understanding has always been story-telling. Be it myths shared at a campfire millenials ago, the era of modern-day television and cinema, or a dataset containing observations and categories. At the end of the day, we want data to tell us a story so that we in turn can understand the data again. And in turn, everything around us can become data if only we learn to encode - and decode - it correctly.
