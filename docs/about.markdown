@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-[my_picture](assets/MH9_4265.jpg)
+![my_picture](assets/MH9_4265.jpg)
 
 Welcome to my page. I am an economist and aspiring data scientist currently located in Bayreuth, Germany.
 
