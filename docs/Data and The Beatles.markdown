@@ -15,11 +15,11 @@ Before I even knew it, I was already knee-deep in coding (and debugging...). I u
 
 After retrieving and cleaning the data, I first obtained a few plots to get a feeling how Beatles-songs can be characterized. As an example, I have here plotted the attribute "Dancyness" which captures how dancy a song is. I have grouped this data by album and plotted a so-called Ridge-Plot or "Joyplot" (named in honour of the first album "Unknown Pleasures" of british post-punk Band <a href="https://en.wikipedia.org/wiki/Joy_Division">Joy Division</a>. Here you can see the densities:
 
-<img href="https://raw.githubusercontent.com/maggomor/maggomor.github.io/gh-pages/docs/assets/images/danceability.png">
+<img href="https://raw.githubusercontent.com/maggomor/maggomor.github.io/gh-pages/docs/assets/images/danceability.png", width="800" />
 
 Neat, right? You can create similar graphs for different measures as well, but that is for another time. For now, I wanted to find out if we could see a difference in the songwriting of Sir Paul McCartney and the rest of the Beatles. I chose some suited measures, namely "Danceability", "Valence" (the joyfulness of a song), and "Liveness", "Acousticness", and "Instrumentalness", which seem to be fairly self-explanatory. Here we see their density plotted once for songs by other Beatles (in blue) and once for McCartney (in orange):
 
-<img href="https://raw.githubusercontent.com/maggomor/maggomor.github.io/gh-pages/docs/assets/images/Measures%20for%20Songs%20by%20McCartney.png">
+<img href="https://raw.githubusercontent.com/maggomor/maggomor.github.io/gh-pages/docs/assets/images/Measures%20for%20Songs%20by%20McCartney.png", width="800" />
 
 There does seem to be some difference, right? Paul seems to be somewhat more dancy, less joyful (how that goes together, I do not know), and overall more instrumental (sure passes the sniff check as McCartney was the most musical of the Fab Four). The previous graph was for the entire discography, but what can we say about this before and after the alleged death of Paul McCartney? Here is a graph that only captures the early Beatles periods (before Sgt. Petter) in which nobody disputes that Paul McCartney was alive (yet some dispute that any of the four actually wrote any song and instead claim that it was instead <a href="https://www.theguardian.com/music/shortcuts/2019/sep/10/a-little-help-from-my-neo-marxist-philosopher-adorno-fifth-beatle-according-olavo-carvalho">None Other than Theodor W. Adorno</a> who wrote all the Beatles' music):
 
