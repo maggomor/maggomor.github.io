@@ -15,7 +15,7 @@ Before I even knew it, I was already knee-deep in coding (and debugging...). I u
 
 After retrieving and cleaning the data, I first obtained a few plots to get a feeling how Beatles-songs can be characterized. As an example, I have here plotted the attribute "Dancyness" which captures how dancy a song is. I have grouped this data by album and plotted a so-called Ridge-Plot or "Joyplot" (named in honour of the first album "Unknown Pleasures" of british post-punk Band <a href="https://en.wikipedia.org/wiki/Joy_Division">Joy Division</a>. Here you can see the densities:
 
-<img href="https://raw.githubusercontent.com/maggomor/maggomor.github.io/gh-pages/docs/assets/images/danceability.png", width="800" />
+<a><img href="https://raw.githubusercontent.com/maggomor/maggomor.github.io/gh-pages/docs/assets/images/danceability.png", width="800" /></a>
 
 Neat, right? You can create similar graphs for different measures as well, but that is for another time. For now, I wanted to find out if we could see a difference in the songwriting of Sir Paul McCartney and the rest of the Beatles. I chose some suited measures, namely "Danceability", "Valence" (the joyfulness of a song), and "Liveness", "Acousticness", and "Instrumentalness", which seem to be fairly self-explanatory. Here we see their density plotted once for songs by other Beatles (in blue) and once for McCartney (in orange):
 
