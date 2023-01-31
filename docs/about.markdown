@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![me](assets/images/zusatzfoto3.jpg)
 
-Welcome to my page. I am an economist and aspiring data scientist currently located in Bayreuth, Germany.
+Welcome to my page. I am an economist and aspiring data scientist currently pursuing a PhD in economics, located in Bayreuth, Germany.
 
 At the heart of human understanding has always been story-telling. Be it myths shared around the campfire millenials ago, the era of modern-day television and cinema, or a computer-encoded dataset containing observations and categories. Only if we learn to view data through the prism of storytelling do we enable ourselves to understand it. And hence, everything around us can become data if only we learn to encode - or decode - it correctly.
 
