@@ -5,4 +5,4 @@ date:   2023-01-08 21:17:00 +0100
 categories: A new website!
 ---
 
-Hello People, this is my new website! Soon there will be exciting changes to come!
+Welcome to my website! Here you will find infos about me, my work, and my side projects. Check out the <a href="https://maggomor.github.io/about/">About Me</a> page as well as my <a href="https://maggomor.github.io/CV/">CV</a> and my most recent project on combining <a href="https://maggomor.github.io/data-and-the-beatles/">my passion for data science with my love for The Beatles</a>.
